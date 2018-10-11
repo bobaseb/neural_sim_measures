@@ -1,7 +1,7 @@
 '''
-Created on 10 Nov 2015
+10 Oct 2018
 
-@author: sebastian
+@author: Sebastian Bobadilla-Suarez
 '''
 
 import mvpa2.suite as mvpa2
