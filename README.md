@@ -46,6 +46,6 @@ The data for Table 1 can be constructed from the output of mixedmodel_\*.R
 
 The mean Spearman correlations for the similarity measures (i.e., similarity profiles) can be extracted from roi_results_\*.csv to reproduce Figure 3 in the manuscript. 
 
-3) Figure 4 & Figue in Supplemental Information
+3) Figure 4 & Figure in Supplemental Information
 
 This requires the output from the searchlight analysis (neural_sim_searchlight_\*.py) to be transformed to MNI space. The appropriate statistical tests can then be run with FSL's randomise function.
